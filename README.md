@@ -54,7 +54,7 @@ You can open the notebook in Google Colab directly:
 
 Or clone and run locally:
 ```bash
-git clone https://github.com/yourusername/ml-notebook.git
+git clone [https://github.com/yourusername/ml-notebook.git](https://github.com/IRafique2/Machine-Learning-Essentials-Notebook.git)
 cd ml-notebook
 jupyter notebook
 
